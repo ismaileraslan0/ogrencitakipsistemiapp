@@ -6,11 +6,11 @@ const KONU_SABLONLARI = [
   "Genel Durum Görüşmesi",
   "Deneme Analizi",
   "Ödev Kontrolü & Soru Çözümü",
-  "TYT Matematik Tekrar",
-  "AYT Deneme Çözümü",
-  "Türev Giriş",
-  "İntegral Uygulamaları",
-  "Problemler Kampı"
+  "TYT Matematik",
+  "AYT Matematik",
+  "LTİT Kampı",
+  "PKOB Kampı",
+  "LGS Matematik"
 ];
 
 function Lessons() {
@@ -284,5 +284,6 @@ function Lessons() {
     </div>
   );
 }
+
 
 export default Lessons;
